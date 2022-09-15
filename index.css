@@ -1,0 +1,20 @@
+.body-content{
+background-color: #BFACE0;
+display: grid;
+justify-content: center;
+}
+
+.form-section{
+    background-color: #EBC7E8;
+    display: grid;
+    justify-content: center;
+    margin: 5%;
+}
+
+.font-color{
+    color: #645CAA;
+}
+.center-text{
+    text-align: center;
+
+}
